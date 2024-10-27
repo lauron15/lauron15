@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Lauro! A passionate Software Developer student from Brazil.
+- Hi 👋, I'm A passionate Software Developer student from Brazil.
 
   - 🌱 I’m currently studying Software Backend and FrontEnd Development <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -16,15 +16,16 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-
-  - 💬
-Sure! Here is the translation:
-
- I am 30 years old, and an undergraduate student in Systems Analysis and Development at Universidade Cruzeiro do Sul. I hold a postgraduate degree in Full Stack Development from Universidade Descomplica, along with another postgraduate degree in Occupational Safety Engineering from Universidade Cruzeiro do Sul. Additionally, I am an Architect and Urban Planner, graduated from Centro Universitário UNA.
+<p>
+  I am 30 years old, and an undergraduate student in Systems Analysis and Development at Universidade Cruzeiro do Sul. I hold a postgraduate degree in Full Stack Development from Universidade Descomplica, along with another postgraduate degree in Occupational Safety Engineering from Universidade Cruzeiro do Sul. Additionally, I am an Architect and Urban Planner, graduated from Centro Universitário UNA.
 
 I have knowledge in Java, JavaScript, and C#, with experience in frameworks such as Spring Boot and Entity Framework. Currently, I am improving my development skills and seeking an internship, trainee, or junior position to start my career in the job market.
 
 I learn quickly and am fluent in English, French, and Spanish. I also work as a translator and have collaborated with various international companies.
+</p>
+  - 💬
+
+
 </details>
 
 <!-- Links -->
