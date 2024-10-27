@@ -35,21 +35,6 @@ I learn quickly and am fluent in English, French, and Spanish. I also work as a 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauron15&size_weight=0.5&count_weight=0.5)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Projeto de um RH ](https://github.com/lauron15/ProjetoRhh---CSHARP)
-- [Projeto de um Menu Full Stack](https://github.com/lauron15/Projeto-de-um-Menu-Full-Stack-)
-- [ToDoList](https://github.com/lauron15/ToDoList)
-- [Cardapio](https://github.com/lauron15/Cardapio)
-- [Projeto Rh Java](https://github.com/lauron15/ProjetoRH)
-- [Sistema Escolar Java](https://github.com/lauron15/SistemaEscolar)
-- [Projeto Xadrez Java](https://github.com/lauron15/Projeto---Xadrez-Java)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -71,5 +56,22 @@ I learn quickly and am fluent in English, French, and Spanish. I also work as a 
      <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
      <img align="center" alt="VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-line-wordmark.svg">
   </div>
+  
+<!-- Portfolio -->
+## Portfolio:
+- [Projeto de um RH ](https://github.com/lauron15/ProjetoRhh---CSHARP)
+- [Projeto de um Menu Full Stack](https://github.com/lauron15/Projeto-de-um-Menu-Full-Stack-)
+- [ToDoList](https://github.com/lauron15/ToDoList)
+- [Cardapio](https://github.com/lauron15/Cardapio)
+- [Projeto Rh Java](https://github.com/lauron15/ProjetoRH)
+- [Sistema Escolar Java](https://github.com/lauron15/SistemaEscolar)
+- [Projeto Xadrez Java](https://github.com/lauron15/Projeto---Xadrez-Java)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" alt="Imagem">
+</p>
+
+
   
 
