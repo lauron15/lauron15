@@ -34,6 +34,8 @@ I learn quickly and am fluent in English, French, and Spanish. I also work as a 
 <!-- GithubStats -->
 ![Lauron15 GitHub stats](https://github-readme-stats.vercel.app/api?username=lauron15&show_icons=true&theme=gotham)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauron15&size_weight=0.5&count_weight=0.5)
+
 <!-- Portfolio -->
 ## Portfolio:
 - [Projeto de um RH ](https://github.com/lauron15/ProjetoRhh---CSHARP)
