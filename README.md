@@ -25,11 +25,10 @@ I learn quickly and am fluent in English, French, and Spanish. I also work as a 
 </p>
   - 💬
 
-
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lauroadeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauroadeveloper/)
 
 <!-- GithubStats -->
 ![Lauron15 GitHub stats](https://github-readme-stats.vercel.app/api?username=lauron15&show_icons=true&theme=gotham)
