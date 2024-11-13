@@ -8,7 +8,7 @@
 <p>
 - Hi 👋, I'm A passionate Software Developer student from Brazil.
 
-  - 🌱 I’m currently studying Software Backend and FrontEnd Development <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Software Backend and FrontEnd Development 
 
   - 🔭 I am looking for my first job opportunity. My dream is work with software Development.
 </p>
@@ -55,6 +55,7 @@ I learn quickly and am fluent in English, French, and Spanish. I also work as a 
     <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
      <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
      <img align="center" alt="VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-line-wordmark.svg">
+      <img align="center" alt="Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   </div>
   
 <!-- Portfolio -->
